@@ -5,6 +5,9 @@ public class Person extends Object{
     private String email;
     private String phoneNumber;
 
+    public Person(String name) {
+        this.name = name;
+    }
 
     public String getName() {
         return name;
