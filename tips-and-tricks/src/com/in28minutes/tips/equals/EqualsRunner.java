@@ -1,4 +1,4 @@
-package com.in28minutes.tip.equals;
+package com.in28minutes.tips.equals;
 
 import java.util.Objects;
 

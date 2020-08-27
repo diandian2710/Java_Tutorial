@@ -1,4 +1,4 @@
-package com.in28minutes.tip.imports;
+package com.in28minutes.tips.imports;
 
 public class BlocksRunner {
     public static final int SECONDS_IN_MINUTE =60;

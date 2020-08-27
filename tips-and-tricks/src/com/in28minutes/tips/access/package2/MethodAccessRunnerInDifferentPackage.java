@@ -1,6 +1,6 @@
-package com.in28minutes.tip.com.in28minutes.tips.access.package2;
+package com.in28minutes.tips.access.package2;
 
-import com.in28minutes.tip.com.in28minutes.tips.access.package1.ExampleClass;
+import com.in28minutes.tips.access.package1.ExampleClass;
 
 public class MethodAccessRunnerInDifferentPackage {
     public static void main(String[] args) {

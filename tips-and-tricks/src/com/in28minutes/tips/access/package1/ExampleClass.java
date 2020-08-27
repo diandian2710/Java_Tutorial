@@ -1,4 +1,4 @@
-package com.in28minutes.tip.com.in28minutes.tips.access.package1;
+package com.in28minutes.tips.access.package1;
 
 public class ExampleClass {
    public void publicMethod(){
