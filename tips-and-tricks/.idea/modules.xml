@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/../Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../collections/collections.iml" filepath="$PROJECT_DIR$/../collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../concurrency/concurrency.iml" filepath="$PROJECT_DIR$/../concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditionals-if-and-switch/conditionals-if-and-switch.iml" filepath="$PROJECT_DIR$/../conditionals-if-and-switch/conditionals-if-and-switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exception-handling/exception-handling.iml" filepath="$PROJECT_DIR$/../exception-handling/exception-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../files/files.iml" filepath="$PROJECT_DIR$/../files/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../first_project/first_project.iml" filepath="$PROJECT_DIR$/../first_project/first_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../functional-programming/functional-programming.iml" filepath="$PROJECT_DIR$/../functional-programming/functional-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../generics/generics.iml" filepath="$PROJECT_DIR$/../generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" filepath="$PROJECT_DIR$/../introduction-to-array-and-arraylist/introduction-to-array-and-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" filepath="$PROJECT_DIR$/../java-primitive-data-types-in-depth/java-primitive-data-types-in-depth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../loops/loops.iml" filepath="$PROJECT_DIR$/../loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../object-oriented-programming-2/object-oriented-programming-2.iml" filepath="$PROJECT_DIR$/../object-oriented-programming-2/object-oriented-programming-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tips-and-tricks.iml" filepath="$PROJECT_DIR$/tips-and-tricks.iml" />
+    </modules>
+  </component>
+</project>
